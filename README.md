@@ -15,6 +15,6 @@
 A aplicação foi feita pensando em um ambiente desktop e o desafio era fazer a resposividade passando ela para um ambiente mobile
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/109780155/218526174-05640964-ff93-4820-8dd5-68e895dd87a4.png" alt="easy-desktop" width="800px"><br>
-  <img src="https://user-images.githubusercontent.com/109780155/218526144-0b9d1b2d-12c5-4740-83e9-ae552aebc764.png" alt="easy-cellphone" width="200px">
+  <img src="https://github.com/eduardoFreschi/easy-shopping/blob/master/assets/easy-pc.png?raw=true" alt="easy-desktop" width="800px"><br>
+  <img src="https://github.com/eduardoFreschi/easy-shopping/blob/master/assets/easy-cel.png?raw=true" alt="easy-cellphone" width="200px">
 </div>
